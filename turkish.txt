@@ -5,7 +5,7 @@ LanguageLocale: tr_TR
 LanguageDescription: Turkish
 LanguageTranslator: Osman KARS
 BerlinDescription: Berlin, Dieter Rams'tan esinlenen güzel bir temadır.
-BlogDescription: Wensiteniz için blog.
+BlogDescription: Websiteniz için blog.
 BlogBy: tarafından
 BlogTag: Etiketler:
 BlogMore: Devamını Oku…
@@ -33,7 +33,7 @@ CoreDateFuture: yakında, yarın, içinde @x gün, 1 ay içinde, @x ay içinde, 
 CoreDateMonthsNominative: Ocak, Şubat, Mart, Nisan, Mayıs, Haziran, Temmuz, Ağustos, Eylül, Ekim, Kasım, Aralık
 CoreDateMonthsGenitive: Ocak, Şubat, Mart, Nisan, Mayıs, Haziran, Temmuz, Ağustos, Eylül, Ekim, Kasım, Aralık
 CoreDateWeekdays: Pazartesi, Salı Çarşamba Perşembe Cuma Cumartesi Pazar
-CoreDateWeekstart: pazartesi
+CoreDateWeekstart: Pazartesi
 CoreDateFormatShort: F Y
 CoreDateFormatMedium: Y-m-d
 CoreDateFormatLong: Y-m-d H:i
@@ -190,9 +190,9 @@ EditUploadProgress: Dosya yükleniyor…
 EditMenuSettings: Ayarlar
 EditMenuHelp: Yardım
 EditMenuLogout: Çıkış
-EditYellowUrl: https://antalyanakliye.com
-EditYellowHelpUrl: https://antalyanakliye.com
-EmojiawesomeDescription: Bir sürü emoji.
+EditYellowUrl: https://datenstrom.se
+EditYellowHelpUrl: https://datenstrom.se/yellow/help/
+EmojiawesomeDescription: Emojiler.
 EnglishDescription: English/English with language 'en'.
 FeedDescription: Son değişikliklerle besleyin.
 FontawesomeDescription: Simgeler ve semboller.
@@ -256,4 +256,4 @@ WikiModified: Son Değişiklik
 WikiTag: Etiketler:
 WikiSpecialPages: Tüm Tayfalar
 WikiSpecialChanges: Son Değişiklikler
-YoutubeDescription: Youtube videosu göm.
+YoutubeDescription: Youtube videosu yerleştir.
